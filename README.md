@@ -10,6 +10,8 @@
 
 - [FingerprintDialog](https://github.com/xiangyunwan/FingerprintDialog) -该裤子可以拿来即用
 
+- [android-FingerprintDialog](https://github.com/googlesamples/android-FingerprintDialog) -谷歌出手，值得拥有
+
 - [reprint](https://github.com/ajalt/reprint) -A unified fingerprint library for android
 
 - [fingerlock](https://github.com/aitorvs/fingerlock) -Android fingerprint authentication library
