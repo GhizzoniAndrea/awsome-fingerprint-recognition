@@ -18,6 +18,10 @@
 
 - [swirl](https://github.com/mattprecious/swirl) -Android's animated fingerprint icon provided in a simple, standalone library
 
+- [FingerAuth](https://github.com/marcoscgdev/FingerAuth) -Fingerprint authentication made easy
+
+- [fingerprint-android](https://github.com/adorsys/fingerprint-android) -simple and easy fingerprint integration into your app
+
 ### 文章
 
 - [谷歌开发文档-FingerprintDialog页面](https://developer.android.google.cn/samples/FingerprintDialog/index.html)
